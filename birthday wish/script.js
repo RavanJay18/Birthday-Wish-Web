@@ -3,11 +3,11 @@ const name = "name";
 document.getElementById("name").innerText = name;
 
 const quotes = [
-  "You Know You Are Star From My Galaxy ❤️",
-  "Keep Shine Like a Dimond oky✨",
-  " Tum ak Adhura khwab Ban ke reh gai hu 💖",
+  "You Are the only star in my universe  ❤️",
+  "Keep Shine Like a Dimond Baby✨",
+  " I Love you  💖",
   " Talking to you is like finding clarity in chaos 💫",
-  "You're not just someone I admire;You're someone I deeply respect Madem Ji! &#129735"
+  "You're not just someone I admire;You're someone I deeply respect My Love!"
 ];
 
 let speed=[5.6,6.8,6,7,7.6,6,5,6.6,8,5]
